@@ -10,6 +10,7 @@ http://cykod.github.com/AlienInvasion/
 
 Bit.ly link for mobile: 
 http://bit.ly/html5-invasion
+tetst23
 
 
 If you make an interesting fork or enhancement of the game, let me know and it'll get
